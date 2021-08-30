@@ -1,7 +1,7 @@
-#DynamicWebpage
+# DynamicWebpage
 This application is in progess.
 
-##Current Functionality
+## Current Functionality
 -Webpage is dynamic.
 
 
